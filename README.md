@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WIDER2019FaceDetectionRuntimeContainerExample
 This repo provides an example docker container for runtime evaluation for the WIDER 2019 challenge track: face detection accuracy and runtime.
 
@@ -95,6 +94,3 @@ docker push 624814826659.dkr.ecr.us-west-2.amazonaws.com/wider-challenge-<your_a
 ```
 
 After you pushed to the repo, the evaluation will automatically start. In **3 hours** you should receive a email with the evaluation results if the evaluation is successful.
-=======
-# AiriaCvlib_runtime
->>>>>>> f47a4ab35f2e813dc11d71a431003556b3c31b36
